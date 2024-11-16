@@ -6,8 +6,6 @@
 
 出展: 技育CAMPハッカソン2024 vol.15
 
-開発チーム: 未設定
-
 開発メンバー: 
 
 xBlackTea(https://github.com/xBlackTea)
